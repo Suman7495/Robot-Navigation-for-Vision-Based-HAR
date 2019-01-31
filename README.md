@@ -1,2 +1,2 @@
-# Robot-Navigation-for-Vision-Based-HAR
+# Robot Navigation for Vision Based Human Activity Recognition
 
