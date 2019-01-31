@@ -4,3 +4,6 @@ This project is a part of the Caresses project whose goal is to design elderly a
 We proposed a parabolic waypoint navigation strategy to optimize the representativeness of images taken by the robot's on-board camera for vision-based Human Activity Recognition.
 
 The project was developed at the University of Genova, Italy, by Adam Berka, Rohit Kumar and Suman Pal, under the supervision of Prof. Antonio Sgorbissa and Dr. Barbara Bruno.
+
+## Video
+Please find the link to the video here.
