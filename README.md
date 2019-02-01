@@ -6,4 +6,4 @@ We proposed a parabolic waypoint navigation strategy to optimize the representat
 The project was developed at the University of Genova, Italy, by Adam Berka, Rohit Kumar and Suman Pal, under the supervision of Prof. Antonio Sgorbissa and Dr. Barbara Bruno.
 
 ## Video
-Please find the link to the video here.
+Please find the link to the video [here.](https://www.youtube.com/watch?v=l8S-gwiYPZk&feature=youtu.be)
