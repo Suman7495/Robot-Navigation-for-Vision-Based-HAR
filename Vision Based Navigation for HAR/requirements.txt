@@ -150,7 +150,7 @@ idna==2.8
 image==1.5.27
 ipaddress==1.0.22
 isodate==0.6.0
-Jinja2==2.10
+Jinja2>=2.10
 json-delta==2.0
 keyring==17.1.1
 MarkupSafe==1.1.0
