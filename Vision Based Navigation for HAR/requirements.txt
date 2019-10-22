@@ -164,7 +164,7 @@ Owlready2==0.13
 packaging==18.0
 pathlib2==2.3.3
 pbr==5.1.1
-Pillow==5.4.1
+Pillow==6.2.0
 pluggy==0.8.1
 post==2018.11.20
 protobuf==3.6.1
