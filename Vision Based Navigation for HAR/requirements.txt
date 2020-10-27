@@ -128,7 +128,7 @@ ConfigArgParse==0.13.0
 configparser==3.5.0
 contextlib2==0.5.5
 coverage==5.0a4
-cryptography==2.4.2
+cryptography==3.2
 Deprecated==1.2.4
 Django==1.11.18
 docutils==0.14
