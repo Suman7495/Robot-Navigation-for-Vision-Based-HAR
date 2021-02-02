@@ -119,7 +119,7 @@ azure-storage-common==1.4.0
 azure-storage-file==1.4.0
 azure-storage-nspkg==3.1.0
 azure-storage-queue==1.4.0
-bleach==3.1.0
+bleach==3.3.0
 cachetools==3.0.0
 certifi==2018.11.29
 cffi==1.11.5
