@@ -183,7 +183,7 @@ pytest-cov==2.6.1
 python-dateutil==2.7.5
 pytoml==0.1.20
 pytz==2018.9
-PyYAML==4.2b4
+PyYAML==5.4
 qi==1.6.3
 query-string==2018.11.20
 readme-renderer==24.0
