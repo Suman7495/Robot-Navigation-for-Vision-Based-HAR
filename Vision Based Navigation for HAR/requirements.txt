@@ -130,7 +130,7 @@ contextlib2==0.5.5
 coverage==5.0a4
 cryptography==2.4.2
 Deprecated==1.2.4
-Django==1.11.18
+Django==2.2.24
 docutils==0.14
 entrypoints==0.3
 enum34==1.1.6
