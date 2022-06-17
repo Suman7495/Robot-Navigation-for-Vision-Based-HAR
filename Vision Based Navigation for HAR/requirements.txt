@@ -158,7 +158,7 @@ mock==2.0.0
 more-itertools==5.0.0
 msrest==0.6.4
 msrestazure==0.6.0
-numpy==1.11.0
+numpy==1.21.0
 oauthlib==2.1.0
 Owlready2==0.13
 packaging==18.0
