@@ -167,7 +167,7 @@ pbr==5.1.1
 Pillow==5.4.1
 pluggy==0.8.1
 post==2018.11.20
-protobuf==3.6.1
+protobuf==3.18.3
 public==2018.11.20
 py==1.7.0
 pyasn1==0.4.5
